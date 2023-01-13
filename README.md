@@ -1,9 +1,9 @@
 # Election_analysis
 
-##Overview:
 
-Colorado board of elections has request an aditional Election-Audit Results for a U.S. congressional precinct using as source [Uploading election_results.csv…]
-. Our goal is to identifity:
+
+## Overview:
+Colorado board of elections has request an aditional Election-Audit Results for a U.S. congressional precinct using as source [Uploading election_results.csv…].Our goal is to identifity:
 
 - The voter turnout for each county.
 - The percentage of votes from each county out of the total count.
